@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Екатерина Захарова](https://up.htmlacademy.ru/javascript/23/user/1319881).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer).
 
 ---
 
